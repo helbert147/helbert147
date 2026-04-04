@@ -20,10 +20,10 @@
 ---
 
 ## 🚀 Sobre mí
-- 🎯 Profesional en **Soporte IT y Redes**
-- 📊 Experiencia en **mantenimiento de sistemas de vigilancia y redes**
-- 🎓 Enfocado en **educación tecnológica y consultoría**
-- 💡 Apasionado por **transformación digital y ciberseguridad**
+- 🎯 Bachiller en Ingeniería de Sistemas **| Tecnología, Automatización y QA.**
+- 📊 Experiencia en **RPA, redes y soluciones tecnológicas. Actualmente en formación en (QA) y metodologías ágiles.**
+- 🎓 Enfocado en **Contribuir al desarrollo e innovación en el ámbito tecnológico, aplicando soluciones que optimicen procesos.**
+- 💡 Apasionado por **El de software y control de calidad (QA), integrando metodologías ágiles y buenas prácticas.**
 
 ---
 
