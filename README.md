@@ -21,9 +21,9 @@
 
 ## 🚀 Sobre mí
 - 🎯 Bachiller en Ingeniería de Sistemas **| Tecnología, Automatización y QA.**
-- 📊 Experiencia en **RPA, redes y soluciones tecnológicas. Actualmente en formación en (QA) y metodologías ágiles.**
-- 🎓 Enfocado en **Contribuir al desarrollo e innovación en el ámbito tecnológico, aplicando soluciones que optimicen procesos.**
-- 💡 Apasionado por **El de software y control de calidad (QA), integrando metodologías ágiles y buenas prácticas.**
+- 📊 Experiencia en **RPA, redes y soluciones tecnológicas. Actualmente en formación en (QA).**
+- 🎓 Enfocado en **Contribuir al desarrollo e innovación en el ámbito tecnológico.**
+- 💡 Apasionado por **El desarrollo de software y QA, integrando metodologías ágiles y buenas prácticas.**
 
 ---
 
