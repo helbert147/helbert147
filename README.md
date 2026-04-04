@@ -9,7 +9,7 @@
   <a href ="https://www.linkedin.com/in/helbert-reyes-cruz-5a94ab220/">
   <img src="https://img.shields.io/badge/LinkedIn-Helbert%20Reyes%20Cruz-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href ="mailto:helbertreyescruz2@gmail.com">
+  <a href ="https://mail.google.com/mail/?view=cm&fs=1&to=helbertreyescruz2@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-helbertreyescruz2%40gmail.com-red?style=flat&logo=gmail" alt="Gmail"/>
   </a>
   <a href ="https://github.com/helbert147">
