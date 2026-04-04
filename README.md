@@ -9,8 +9,12 @@
   <a href ="https://www.linkedin.com/in/helbert-reyes-cruz-5a94ab220/">
   <img src="https://img.shields.io/badge/LinkedIn-Helbert%20Reyes%20Cruz-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
+  <a href ="helbertreyescruz2@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-helbertreyescruz2%40gmail.com-red?style=flat&logo=gmail" alt="Gmail"/>
+  </a>
+  <a href ="https://github.com/helbert147">
   <img src="https://img.shields.io/badge/GitHub-helbert147-black?style=flat&logo=github" alt="GitHub"/>
+  </a>
 </div>
 
 ---
