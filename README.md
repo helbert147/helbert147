@@ -47,8 +47,10 @@
 
 ---
 
-## 📈 Objetivo Profesional
-Busco integrarme en un equipo de **IT Support / Consultoría Tecnológica**, aportando mis conocimientos en infraestructura, análisis de datos y transformación digital.
+## 🎯 Objetivo Profesional
+Profesional proactivo y responsable, con experiencia en **RPA, administración de redes y soluciones tecnológicas**.  
+Actualmente en formación en **Quality Assurance (QA)** y metodologías ágiles, orientado a la **automatización de procesos, mejora continua y aseguramiento de la calidad** en entornos tecnológicos.  
+Busco aportar valor en equipos multidisciplinarios, optimizando flujos de trabajo y garantizando eficiencia en la entrega de soluciones.
 
 ---
 
