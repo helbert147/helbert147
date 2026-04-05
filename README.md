@@ -29,17 +29,19 @@
 
 ## 🛠️ Habilidades Técnicas
 - **Lenguajes:** HTML, CSS, Python, SQL
-- **Herramientas:** Git, GitHub, SPSS, Excel
+- **Herramientas:** Git, GitHub, RPA, Excel
 - **Infraestructura:** Redes, CCTV, soporte técnico
-- **Metodologías:** UX, CX, Service Design
+- **Metodologías:** Scrum fundamentals, ITIL, Service Design
 
 ---
 
 ## 📂 Proyectos Destacados
-- 🔧 **Sistema de mantenimiento de redes y vigilancia**  
-  Documentación y optimización de procesos técnicos.
-- 📊 **Simulación de encuestas Likert en SPSS/Excel**  
-  Análisis de datos para investigación académica.
+- 🤖 **Automatización de extractos bancarios con RPA (Power Automate + Azure)**  
+  Desarrollo de un flujo automatizado para procesar extractos bancarios, incluyendo encriptación de datos sensibles y gestión segura de la información.  
+  Integración con servicios en la nube (Azure) para garantizar escalabilidad y cumplimiento de estándares de seguridad.
+- 📑 **Automatización de carga de decretos y resoluciones en portal Gob.pe (Municipalidad Distrital de Santiago, Ica)**  
+  Implementación de un proceso RPA con Power Automate y OCR para digitalizar documentos oficiales y subirlos automáticamente al portal institucional Gob.pe.  
+  Optimización del flujo de trabajo administrativo, reduciendo tiempos de carga y errores manuales.
 - 🎨 **Frameworks de User Persona**  
   Presentaciones académicas y consultoría.
 
