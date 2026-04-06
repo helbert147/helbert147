@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hola, soy Helbert Reyes Cruz</h1>
-  <h3>IT Support | Tecnología | Educación | Consultoría</h3>
+  <h3>Developer | QA | Soporte | Redes</h3>
 </div>
 
 ---
